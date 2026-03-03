@@ -3,7 +3,7 @@ module github.com/pbs/terraform-aws-application-insights-module
 go 1.23.0
 
 require (
-	github.com/aws/aws-sdk-go v1.44.242
+	github.com/aws/aws-sdk-go v1.55.8
 	github.com/gruntwork-io/terratest v0.41.18
 	github.com/stretchr/testify v1.8.3
 )
